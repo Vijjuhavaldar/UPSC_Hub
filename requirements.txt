@@ -1,0 +1,29 @@
+# flask
+# feedparser
+# requests
+# beautifulsoup4
+# newspaper3k
+# torch
+# faiss-cpu
+# transformers
+# sentence_transformers
+# flask_sqlalchemy
+
+flask
+werkzeug
+transformers
+sentence-transformers
+feedparser
+sqlite3
+torch
+faiss-cpu
+numpy
+nltk
+beautifulsoup4
+sumy
+reportlab
+requests
+
+
+sqlite3 upsc_news.db
+.tables
