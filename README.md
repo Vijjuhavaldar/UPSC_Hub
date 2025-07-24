@@ -1,5 +1,5 @@
 # UPSC_Hub
-” UPSC Current Affairs Simplified AI-Powered UPSC Current Affairs Hub”
+ "Simplified AI-Powered UPSC Current Affairs Hub"
 # Onjective
 Automate News Aggregation: Use RSS feeds and APIs to fetch news from PIB, he Hindu, PRS, etc.
 
