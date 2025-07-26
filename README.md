@@ -2,7 +2,7 @@
  "Simplified AI-Powered UPSC Current Affairs Hub"
  
  chekout the working demo of website in issues section
-# Onjective
+# Objective
 Automate News Aggregation: Use RSS feeds and APIs to fetch news from PIB, he Hindu, PRS, etc.
 
 Categorize According to UPSC Papers: Use AI techniques (LLM, ML, NLP) to assign news to GS Papers.
